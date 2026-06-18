@@ -96,7 +96,7 @@ Parallel creative work — intentionally separate from B2B advisory positioning.
 - **Portfolio & advisory:** [agostinodeangelis.com](https://agostinodeangelis.com)
 - **Micro-demo / qualified inquiry:** [Contact form](https://agostinodeangelis.com/contact)
 - **Email:** agostino@de-angelis.info
-- **LinkedIn:** [Agostino De Angelis](https://www.linkedin.com/in/agostinodeangelis/) *(update if URL differs)*
+- **LinkedIn:** [linkedin.com/in/agostinodeangelis](https://www.linkedin.com/in/agostinodeangelis/)
 
 ---
 
