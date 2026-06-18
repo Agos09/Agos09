@@ -1,0 +1,29 @@
+#+TITLE: GitHub Profile — Agos09
+#+PROPERTY: Repo GitHub Agos09/Agos09
+#+PROPERTY: Funzione Hub trasparente progetti (Strategia B — personal-blueprint)
+
+* Setup
+Repository pubblica =Agos09/Agos09= con solo =README.md= → appare in cima al profilo GitHub.
+
+* Sezioni README
+1. Active Professional Focus — RAG, IP, insure-genius, notes
+2. Financial Engines — genius.finance, wealth.finance, CER
+3. Creative & Art Experiments — braci.art, ip-spark, narrative
+
+* Deploy
+#+begin_src bash
+cd ~/LAB/projects/github-profile
+git init && git add README.md && git commit -m "Add profile README"
+gh repo create Agos09 --public --source=. --remote=origin --push
+#+end_src
+
+* Profilo account (bio, blog, location)
+Aggiornato via =gh api PATCH user= — vedi script =scripts/update-github-profile.sh=
+
+* Pin consigliati (max 6)
+- =notes-agostinodeangelis= (public)
+- =dotfiles= (public)
+- =insure-genius= (private — visibile solo a te, ok per pin personale)
+- =smartagri-tech=
+- =agostinodeangelis.com=
+- =wealth.finance=
